@@ -3,15 +3,7 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fiel
 	padding: 0;color: #444444;
 	font: 14px/1.5 Microsoft YaHei, Helvitica, Verdana, Arial, san-serif;
 }
-.activity-lottery-winning{ background: url(http://www.wxapi.cn/index/images/activity/activity-lottery-bg2.jpg) #2a8a00;}
-.activity-lottery-end{ background: url(http://www.wxapi.cn/index/images/activity/activity-lottery-bg2.jpg) #2a8a00;}
-.activity-coupon-winning{ background-color:#8d0001;}
-.activity-coupon-end{ background-color:#8d0001;}
-.activity-scratch-card-winning{background: url(http://www.wxapi.cn/index/images/activity/activity-scratch-card-bg.jpg) #944f20;}
-.activity-scratch-card-end{background: url(http://www.wxapi.cn/index/images/activity/activity-scratch-card-bg.jpg) #944f20;}
-.activity-lottery-winning .main{
-	background: url(http://www.wxapi.cn/index/images/activity/activity-lottery-bg.png) no-repeat top center;
-}
+
 
 #outer-cont {
 	position: relative;
